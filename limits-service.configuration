@@ -1,2 +1,2 @@
-limits-service.minimum: 5
-limits-service.maximum: 677
+minimum:5
+maximum:677
